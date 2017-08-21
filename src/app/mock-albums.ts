@@ -1,4 +1,4 @@
-import { Album } from '../album.model';
+import { Album } from './album.model';
 
 export const ALBUMS: Album[] = [
    new Album("Pulse", "Pink Floyd",
